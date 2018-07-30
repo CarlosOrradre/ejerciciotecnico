@@ -1,0 +1,7 @@
+c:\users\juancarlosorradre\EjercicioTecnico\EjercicioTecnico\bin\Debug\EjercicioTecnico.exe.config
+c:\users\juancarlosorradre\EjercicioTecnico\EjercicioTecnico\bin\Debug\EjercicioTecnico.exe
+c:\users\juancarlosorradre\EjercicioTecnico\EjercicioTecnico\bin\Debug\EjercicioTecnico.pdb
+c:\users\juancarlosorradre\EjercicioTecnico\EjercicioTecnico\obj\Debug\Numeros.csprojResolveAssemblyReference.cache
+c:\users\juancarlosorradre\EjercicioTecnico\EjercicioTecnico\obj\Debug\Numeros.csproj.CoreCompileInputs.cache
+c:\users\juancarlosorradre\EjercicioTecnico\EjercicioTecnico\obj\Debug\EjercicioTecnico.exe
+c:\users\juancarlosorradre\EjercicioTecnico\EjercicioTecnico\obj\Debug\EjercicioTecnico.pdb
